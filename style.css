@@ -1,0 +1,6 @@
+#snail{
+	position: absolute;
+	left: 0;
+	width: 200px;
+	transition: left 500ms linear;
+}
